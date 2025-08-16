@@ -44,7 +44,3 @@ Saving the Cleaned Data:
 
 Exported the final, clean DataFrame to a new CSV file (Cleaned Drone Attack.csv) with the index excluded, making it ready for future use.
 
-Repository Structure
-├── Drone Attacks.ipynb         # The main Jupyter Notebook with all the cleaning steps and code.
-├── original_dataset.csv        # The raw, unprocessed dataset used as the starting point.
-└── Cleaned Drone Attack.csv    # The final, clean, and structured dataset produced by t
